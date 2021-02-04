@@ -1,0 +1,16 @@
+C:\Teste Técnico GFT\CalculoBhaskara\bin\Debug\net5.0\CalculoBhaskara.exe
+C:\Teste Técnico GFT\CalculoBhaskara\bin\Debug\net5.0\CalculoBhaskara.deps.json
+C:\Teste Técnico GFT\CalculoBhaskara\bin\Debug\net5.0\CalculoBhaskara.runtimeconfig.json
+C:\Teste Técnico GFT\CalculoBhaskara\bin\Debug\net5.0\CalculoBhaskara.runtimeconfig.dev.json
+C:\Teste Técnico GFT\CalculoBhaskara\bin\Debug\net5.0\CalculoBhaskara.dll
+C:\Teste Técnico GFT\CalculoBhaskara\bin\Debug\net5.0\ref\CalculoBhaskara.dll
+C:\Teste Técnico GFT\CalculoBhaskara\bin\Debug\net5.0\CalculoBhaskara.pdb
+C:\Teste Técnico GFT\CalculoBhaskara\obj\Debug\net5.0\CalculoBhaskara.csprojAssemblyReference.cache
+C:\Teste Técnico GFT\CalculoBhaskara\obj\Debug\net5.0\CalculoBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste Técnico GFT\CalculoBhaskara\obj\Debug\net5.0\CalculoBhaskara.AssemblyInfoInputs.cache
+C:\Teste Técnico GFT\CalculoBhaskara\obj\Debug\net5.0\CalculoBhaskara.AssemblyInfo.cs
+C:\Teste Técnico GFT\CalculoBhaskara\obj\Debug\net5.0\CalculoBhaskara.csproj.CoreCompileInputs.cache
+C:\Teste Técnico GFT\CalculoBhaskara\obj\Debug\net5.0\CalculoBhaskara.dll
+C:\Teste Técnico GFT\CalculoBhaskara\obj\Debug\net5.0\ref\CalculoBhaskara.dll
+C:\Teste Técnico GFT\CalculoBhaskara\obj\Debug\net5.0\CalculoBhaskara.pdb
+C:\Teste Técnico GFT\CalculoBhaskara\obj\Debug\net5.0\CalculoBhaskara.genruntimeconfig.cache
